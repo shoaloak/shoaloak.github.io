@@ -1,0 +1,14 @@
+Package: com.axelkoolhaas.vlctweak
+Name: VLC Tweak
+Version: 0.1
+Architecture: iphoneos-arm64
+Description: Replace VLC spaces with claps!
+Maintainer: Shoaloak
+Author: Shoaloak
+Section: Tweaks
+Depends: dev.theos.orion14
+Filename: debs/com.axelkoolhaas.vlctweak_0.1_iphoneos-arm64.deb
+Size: 52802
+MD5sum: a9d5dc2c3974fe31f0c68d8e826cbe0f
+SHA1: 9f8a54a9122ae388934bc0fa77c7b5c76f13ea35
+SHA256: 36d17e7bd4d28f086bf612e7b2a70790f0732091405bc7cd23d447a00735cdf7
